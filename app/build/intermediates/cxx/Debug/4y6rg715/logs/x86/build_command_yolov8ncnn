@@ -1,0 +1,4 @@
+/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja \
+  -C \
+  /Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本2/app/.cxx/Debug/4y6rg715/x86 \
+  yolov8ncnn

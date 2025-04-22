@@ -1,0 +1,25 @@
+# ninja log v5
+0	1294	1745220458	CMakeFiles/yolov8ncnn.dir/ndkcamera.cpp.o	7cd999e67c10d50d
+0	1377	1745220458	CMakeFiles/yolov8ncnn.dir/yolov8ncnn.cpp.o	3989254088a818d6
+0	1746	1745220459	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1746	1920	1745220459	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+6	2129	1745249379	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+2130	2605	1745249380	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+4	2167	1745249534	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+2167	2645	1745249535	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+6	1735	1745250729	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1736	2167	1745250729	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+7	2340	1745251282	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+2340	2768	1745251283	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+6	1445	1745253611	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1445	1709	1745253612	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+5	1524	1745253666	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1524	1665	1745253666	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+4	1415	1745254725	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1415	1554	1745254725	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+4	1551	1745254766	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1551	1688	1745254766	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+5	1801	1745282754	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1801	2156	1745282754	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3
+7	1972	1745282808	CMakeFiles/yolov8ncnn.dir/yolo.cpp.o	d379876664f07fdc
+1972	2134	1745282809	/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so	821f4b77f667fbd3

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="627dp"
+        android:orientation="vertical">
+
+        <ImageButton
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/yuantuocuaf"
+            android:src="@drawable/yuanuobiao">
+
+        </ImageButton>
+
+        <Button
+            android:id="@+id/jianche"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="检测测试" />
+
+        <Button
+            android:id="@+id/xiangmupassre"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="pt+and" />
+
+
+
+        <Button
+            android:id="@+id/Nowl"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="无网络查询" />
+
+        <Button
+            android:id="@+id/yes"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="有网络查询" />
+
+        <View
+            android:id="@+id/view2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="退出" />
+
+</LinearLayout>

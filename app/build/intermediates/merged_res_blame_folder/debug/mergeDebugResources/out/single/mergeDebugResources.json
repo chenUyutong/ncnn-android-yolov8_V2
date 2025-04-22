@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/drawable_yuanuobiao.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/drawable/yuanuobiao.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/layout_no_network.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/layout/no_network.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/layout_main.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/layout/main.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/drawable_titleisnull.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/drawable/titleisnull.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/layout_guanyigji.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/layout/guanyigji.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/layout_huany.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/layout/huany.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/drawable_baiofhfgf.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/drawable/baiofhfgf.xml"
+    },
+    {
+        "merged": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-debug-4:/layout_qw.xml.flat",
+        "source": "/Users/mac/.gradle/daemon/8.7/com.tencent.yolov8ncnn.app-main-6:/layout/qw.xml"
+    },
+    {
+        "merged": "com.tencent.yolov8ncnn.app-debug-4:/layout_qw.xml.flat",
+        "source": "com.tencent.yolov8ncnn.app-main-6:/layout/qw.xml"
+    }
+]

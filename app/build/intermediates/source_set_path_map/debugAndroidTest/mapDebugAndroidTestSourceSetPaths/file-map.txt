@@ -1,0 +1,4 @@
+com.tencent.yolov8ncnn.test.app-androidTest-0 /Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本2/app/build/generated/res/resValues/androidTest/debug
+com.tencent.yolov8ncnn.test.app-mergeDebugAndroidTestResources-1 /Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.tencent.yolov8ncnn.test.app-mergeDebugAndroidTestResources-2 /Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本2/app/build/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.tencent.yolov8ncnn.test.app-debugAndroidTest-3 /Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本2/app/build/intermediates/merged_res/debugAndroidTest/mergeDebugAndroidTestResources

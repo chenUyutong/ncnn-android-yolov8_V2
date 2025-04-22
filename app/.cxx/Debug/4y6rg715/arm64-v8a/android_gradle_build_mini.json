@@ -1,0 +1,33 @@
+{
+  "buildFiles": [
+    "/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/src/main/jni/CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+      "-C",
+      "/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/.cxx/Debug/4y6rg715/arm64-v8a",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+    "-C",
+    "/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/.cxx/Debug/4y6rg715/arm64-v8a",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {
+    "yolov8ncnn-Debug-arm64-v8a": {
+      "artifactName": "yolov8ncnn",
+      "buildCommandComponents": [
+        "/Users/mac/Library/Android/sdk/cmake/3.10.2.4988404/bin/ninja",
+        "-C",
+        "/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/.cxx/Debug/4y6rg715/arm64-v8a",
+        "yolov8ncnn"
+      ],
+      "abi": "arm64-v8a",
+      "output": "/Users/mac/Documents/练习/陈宇童yolo/ncnn-android-yolov8_副本5/app/build/intermediates/cxx/Debug/4y6rg715/obj/arm64-v8a/libyolov8ncnn.so",
+      "runtimeFiles": []
+    }
+  }
+}
